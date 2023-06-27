@@ -10,6 +10,6 @@ Duas coisas incomodaram: 1) a documentação que é meio confusa e; 2) para envi
 
 Este app é uma modificação do app apresentado em https://youtu.be/JwSS70SZdyM?t=804. A modificação altera o layout e adiciona um aviso para o usuário quando a entrada esta incorreta (valores diferentes de 'T', 'A', 'G', 'C').
 
-O app esta rodando em [](https://app-7erbw5rilcs.streamlit.app/).
+O app esta rodando em https://app-7erbw5rilcs.streamlit.app/ [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-7erbw5rilcs.streamlit.app/) 
 
 26 de junho de 2023.
